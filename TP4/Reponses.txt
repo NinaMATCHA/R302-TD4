@@ -1,0 +1,8 @@
+Exercice 1 ARBRE
+
+1. Les arbres peuvent servir par exemple a resoudre une equation, encadre un document comme la syntaxe HTML...
+
+3. Pour parcourir un arbre, les moyens connus sont :
+- en profondeur
+- en largeur
+Chacun de ses parcours peuvent commencer de la droite, du noeud ou de la gauche.
